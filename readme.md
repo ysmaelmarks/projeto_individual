@@ -1,5 +1,4 @@
-## Projeto de Curso do Senac / Resilia
-===================================
+## Projeto de Curso do Senac / Resilia / CNSeg
 
 ## Descrição do Projeto
 --------------------
