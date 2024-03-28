@@ -22,7 +22,7 @@ Execute o arquivo Python proj_individual2.py para realizar a busca de candidatos
 $ py proj_individual2.py
 ```
 
-### Você também pode utilizar o programa alterando os argumentos da função procurarCandidato() e a lista "dados"
+Você também pode utilizar o programa alterando os argumentos da função procurarCandidato() e a lista "dados"
 
 ## Exemplo de uso
 ```sh
