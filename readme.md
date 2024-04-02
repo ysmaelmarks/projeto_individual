@@ -13,7 +13,7 @@ Este projeto também será utilizado para avaliação da atividade individual do
 Clone o repositório para seu ambiente local. Será necessário python 3.11 ou superior
 
 ```sh
-$ git clone https://github.com/seu-usuario/nome-do-repositorio.git
+$ git clone https://github.com/ysmaelmarks/projeto_individual
 ```
 
 Execute o arquivo Python proj_individual2.py para realizar a busca de candidatos:
